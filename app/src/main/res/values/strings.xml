@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="location_hint">Enter location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
